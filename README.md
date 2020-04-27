@@ -1,4 +1,4 @@
-# New Change
+# Old New Change
 
 - init: create a git repository in current directory
 	- do this only once (no nested)
@@ -19,3 +19,5 @@ git checkout master
 - remote" a place where git repo stroted Github.
 	- git remote add origin URL add a remote
 	- git push origin master: to push master branch
+
+- SAME location change can get edit conflict
