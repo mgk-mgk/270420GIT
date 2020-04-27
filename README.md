@@ -1,4 +1,4 @@
-# New Change
+# VERY VERY New Change
 
 - init: create a git repository in current directory
 	- do this only once (no nested)
