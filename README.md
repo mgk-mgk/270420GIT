@@ -10,6 +10,10 @@
 	- log --oneline simple on eine
 - diff : look at differences between current state
 - checkout: moving our head
+  checkout hash filre restores from ther hash
+  git checkout master to return back
+
+git checkout master
 - 'HEAD': place we are looking now.
 
 - remote" a place where git repo stroted Github.
