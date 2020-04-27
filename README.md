@@ -9,4 +9,9 @@
 - log: look at all cpommit hstory
 	- log --oneline simple on eine
 - diff : look at differences between current state
+- checkout: moving our head
+- 'HEAD': place we are looking now.
 
+- remote" a place where git repo stroted Github.
+	- git remote add origin URL add a remote
+	- git push origin master: to push master branch
