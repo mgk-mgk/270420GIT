@@ -1,4 +1,4 @@
-# Old New Change
+# VERY VERY New Change
 
 - init: create a git repository in current directory
 	- do this only once (no nested)
@@ -20,4 +20,3 @@ git checkout master
 	- git remote add origin URL add a remote
 	- git push origin master: to push master branch
 
-- SAME location change can get edit conflict
